@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterhub==0.8.1
+  - pip:
+    - bluesky
